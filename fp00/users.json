@@ -1,4 +1,4 @@
-const users = [
+[
   {
     "email": "melany.wijngaard@example.com",
     "gender": "female",
@@ -792,5 +792,3 @@ const users = [
     "picture": "women/17.jpg"
   }
 ]
-
-export default users;
