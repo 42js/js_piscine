@@ -27,8 +27,8 @@
 ## 참고자료
 * [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 
-### ex00 닭이 먼저냐 계란이 먼저냐
-### ex01 map
-### ex02 filter
-### ex03 reduce
-### ex04 만남
+### [예제 00 - 닭이 먼저냐 계란이 먼저냐](ex00.md)
+### [예제 01 - map](ex01.md)
+### [예제 02 - filter](ex02.md)
+### [예제 03 - reduce](ex03.md)
+### [예제 04 - 만남](ex04.md)
