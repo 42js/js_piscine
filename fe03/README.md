@@ -41,6 +41,8 @@
 - Github v3 API을 이용해서 해당 페이지에서 적용된 내용이 실제 Github에서 적용되게 한다.
 - Github v3 API에 대한 Error Handling을 해야한다.
 
+> `presentation container pattern`과 같은 디자인 패턴을 찾아보세요.
+
 ## 보너스
 
 - 마일스톤을 생성/편집/삭제할 수 있습니다.
