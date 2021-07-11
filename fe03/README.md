@@ -53,6 +53,6 @@
 - 다크 모드를 지원한다.
   - 다크모드는 input을 통해 지원되어야한다. 
   - input의 type은 checkbox 이다.
-- CSS 전처리기를 참고한다.
+- CSS 전처리기를 이용해 구현한다.
   
 > https://docs.github.com/en/rest
